@@ -1,7 +1,5 @@
-numero = 10
+num = 10
 
-while numero <= 50:
-    print(numero)
-    numero+= 1
-
-    
+while num <= 50:
+    print(num)
+    num+= 1

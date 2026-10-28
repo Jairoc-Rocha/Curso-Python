@@ -1,5 +1,6 @@
-numero = 20
+x = 20
 
-while numero >= 0:
-    print(numero)
-    numero-= 1
+while x >= 0:
+    print(x)
+    x-= 1
+
